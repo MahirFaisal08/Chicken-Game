@@ -60,7 +60,7 @@ It aims to demonstrate practical knowledge in:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Language:** Python  
 - **Framework:** Pygame  
