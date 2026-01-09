@@ -75,11 +75,12 @@ It aims to demonstrate practical knowledge in:
 ```bash
 git clone https://github.com/MahirFaisal08/Chicken-Game.git
 ```
+
+2️⃣ **Navigate to the project directory:**
 ```bash
-2️⃣ Navigate to the project directory:
 cd Chicken-Game
 ```
+3️⃣ **Run the game:**
 ```bash
-3️⃣ Run the game:
 python main.py
 ```
