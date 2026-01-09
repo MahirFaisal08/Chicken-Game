@@ -1,41 +1,85 @@
-## Chicken Game
+# 🐔 Chicken Game 🎮
 
-Chicken Game is an engaging and interactive game designed to challenge players' reflexes and decision-making skills. Built with [mention technologies/frameworks used, e.g., Unity, C#, Python], this project showcases creativity, teamwork, and technical expertise in game development.
----
-
-## Features 
-
-Dynamic Gameplay: Exciting and fast-paced action that keeps players engaged.
-Challenging Levels: Increasing difficulty to test and enhance player skills.
-Immersive Graphics: High-quality visuals for an engaging user experience.
-Cross-Platform Support: Playable on multiple devices (mention platforms, e.g., Windows, macOS, etc.).
-Customizable Characters: Personalize your chicken avatar to stand out.
-Purpose of the Project 🛠️
-This project was created as part of the coursework for CSE423. It aims to demonstrate a comprehensive understanding of:
-
-
-Game Mechanics Design: Developing intuitive and fun gameplay elements.
-Programming Skills: Implementing features using efficient algorithms and clean code.
-Team Collaboration: Working as a cohesive unit to meet project deadlines and deliver quality.
-Version Control: Using Git for effective collaboration and version management.
-How to Play 🎮
-Objective: [Explain the main goal of the game, e.g., "Guide your chicken safely across the road while avoiding obstacles and collecting rewards."]
-Controls: [List the key bindings or control inputs, e.g., "Use the arrow keys to move and spacebar to jump."]
-Winning Condition: [State how players can win, e.g., "Reach the finish line with maximum points."]
-Technologies Used 💻
-[List the tools, languages, or frameworks, e.g., Unity, Blender, C#, etc.]
+![Language](https://img.shields.io/badge/language-Python-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
 ---
 
+## Overview
+**Chicken Game** is an engaging and interactive game designed to challenge players' reflexes and decision-making skills.  
+Built with **Python (Pygame framework)**, this project showcases creativity, teamwork, and technical expertise in game development.
 
-## Installation & Setup
-(i) Clone the repository Use this command
-=> git clone https://github.com/MahirFaisal08/Chicken-Game.git
+Players control a chicken navigating through challenging obstacles, collecting rewards, and racing against time — testing both reflex and focus.
 
+---
 
-(ii) Navigate to the project directory Use this command
-=> cd Chicken-Game
+## Features
 
+- **Dynamic Gameplay:** Exciting and fast-paced action that keeps players engaged.  
+- **Challenging Levels:** Increasing difficulty to test and enhance player skills.  
+- **Immersive Graphics:** Smooth visuals and animations for an enjoyable experience.  
+- **Cross-Platform Support:** Playable on multiple devices (Windows, Linux, macOS).  
+- **Customizable Characters:** Personalize your chicken avatar to stand out.  
 
-Feedback and Contributions 🤝
-Feel free to report issues or contribute enhancements to the project. Pull requests are welcome!
+---
+
+## Project Specs
+
+| Property | Details |
+|-----------|----------|
+| **Type** | Game Development Project |
+| **Genre** | Reflex / Action Arcade |
+| **Language** | Python |
+| **Framework** | Pygame |
+| **Mode** | Single-player |
+| **Status** | Completed |
+
+---
+
+## Purpose of the Project
+
+This project was developed as part of the **CSE423 coursework**.  
+It aims to demonstrate practical knowledge in:
+
+- 🎮 **Game Mechanics Design:** Developing intuitive and fun gameplay elements.  
+- 💻 **Programming Skills:** Implementing logic using efficient and clean code.  
+- 👥 **Team Collaboration:** Working as a cohesive unit to meet milestones and deliver quality.  
+- 🔁 **Version Control:** Utilizing Git for collaboration and version management.  
+
+---
+
+## 🎮 How to Play
+
+- **Objective:** Guide your chicken safely across roads and obstacles while collecting coins and reaching the finish line.  
+- **Controls:**  
+  - ⬆️ / ⬇️ / ⬅️ / ➡️ → Move your chicken  
+  - **Spacebar** → Jump  
+  - **P** → Pause the game  
+- **Winning Condition:** Reach the end of the level with the highest score possible!
+
+---
+
+## 💻 Technologies Used
+
+- **Language:** Python  
+- **Framework:** Pygame  
+- **Design Tools:** Photoshop / Illustrator (for assets)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## ⚙️ Installation & Setup
+
+1️⃣ **Clone the repository:**  
+```bash
+git clone https://github.com/MahirFaisal08/Chicken-Game.git
+```
+```bash
+2️⃣ Navigate to the project directory:
+cd Chicken-Game
+```
+```bash
+3️⃣ Run the game:
+python main.py
+```
