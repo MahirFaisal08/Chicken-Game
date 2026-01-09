@@ -1,9 +1,9 @@
-Chicken Game 🐔🎮
+## Chicken Game
 
 Chicken Game is an engaging and interactive game designed to challenge players' reflexes and decision-making skills. Built with [mention technologies/frameworks used, e.g., Unity, C#, Python], this project showcases creativity, teamwork, and technical expertise in game development.
+---
 
-
-Features 🌟
+## Features 
 
 Dynamic Gameplay: Exciting and fast-paced action that keeps players engaged.
 Challenging Levels: Increasing difficulty to test and enhance player skills.
@@ -25,10 +25,10 @@ Winning Condition: [State how players can win, e.g., "Reach the finish line with
 Technologies Used 💻
 [List the tools, languages, or frameworks, e.g., Unity, Blender, C#, etc.]
 
+---
 
 
-
-# Installation & Setup ⚙️
+## Installation & Setup
 (i) Clone the repository Use this command
 => git clone https://github.com/MahirFaisal08/Chicken-Game.git
 
