@@ -84,3 +84,32 @@ cd Chicken-Game
 ```bash
 python main.py
 ```
+---
+## 🧩 Future Improvements
+
+- Add multiplayer mode with online scoreboards  
+- Implement AI-driven obstacles for smarter gameplay  
+- Add background music and sound effects customization  
+- Include level editor for user-generated content  
+- Optimize performance for mobile platforms  
+
+---
+
+## Author
+
+**Name:** Md. Mahir Faisal  
+**Project:** Chicken Game – Reflex Challenge  
+**Language:** ![Language](https://img.shields.io/badge/Python-orange)
+
+---
+
+## License
+
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute this software with proper credit.  
+For details, see the LICENSE file in this repository or visit the official [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+⭐ **Star this repo** if you found it fun or helpful!  
+📫 For feedback, issues, or collaborations, contact **[Md. Mahir Faisal](https://github.com/MahirFaisal08)**
+---
